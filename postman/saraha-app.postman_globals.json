@@ -1,0 +1,55 @@
+{
+  "id": "911cedb8-61e3-4867-8a86-56269f8195bd",
+  "name": "Saraha Globals",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "email",
+      "value": "ahmed@example.com",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "accessToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "refreshToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "userId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "messageId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "otp",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "newPassword",
+      "value": "NewPass@1234",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "globals"
+}
